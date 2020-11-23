@@ -1,0 +1,1178 @@
+fileFormatVersion: 2
+guid: c584429ed2901704a85f9f3d9f2a2e44
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -488020864371867657
+    second: giant_block_idle_1
+  - first:
+      213: -2174746541771588193
+    second: giant_block_idle_2
+  - first:
+      213: 6277547009680569768
+    second: giant_block_idle_3
+  - first:
+      213: -3611892901771524231
+    second: giant_block_idle_4
+  - first:
+      213: 7439356591349612371
+    second: giant_block_idle_5
+  - first:
+      213: -8747375374874022760
+    second: giant_block_idle_6
+  - first:
+      213: -7932542657966089039
+    second: giant_block_run_1
+  - first:
+      213: 4698612768673811431
+    second: giant_block_run_2
+  - first:
+      213: -722332781389883594
+    second: giant_block_run_3
+  - first:
+      213: -8141382653053508657
+    second: giant_block_run_4
+  - first:
+      213: -2797381370353777636
+    second: giant_block_run_5
+  - first:
+      213: 5623176642383304766
+    second: giant_block_run_6
+  - first:
+      213: -7372050748717235182
+    second: giant_block_12
+  - first:
+      213: -7082205322233888401
+    second: giant_block_13
+  - first:
+      213: -1077636518656486080
+    second: giant_block_14
+  - first:
+      213: 6368876959533733608
+    second: giant_block_15
+  - first:
+      213: -6933862811948180138
+    second: giant_block_16
+  - first:
+      213: -1325505196075629553
+    second: giant_block_17
+  - first:
+      213: 4642906538056112507
+    second: giant_block_18
+  - first:
+      213: 3229786822877248173
+    second: giant_block_19
+  - first:
+      213: -7029850608163595097
+    second: giant_block_20
+  - first:
+      213: 5632020898339820851
+    second: giant_block_21
+  - first:
+      213: 3071086357175644978
+    second: giant_block_22
+  - first:
+      213: -4013992460162623093
+    second: giant_block_23
+  - first:
+      213: -3895716211392431887
+    second: giant_block_24
+  - first:
+      213: -8202640238038675523
+    second: giant_block_25
+  - first:
+      213: 3023261553993217729
+    second: giant_block_26
+  - first:
+      213: -8841984671644519039
+    second: giant_block_attack_1
+  - first:
+      213: -9103648369260353429
+    second: giant_block_attack_2
+  - first:
+      213: 6808222472416502754
+    second: giant_block_attack_3
+  - first:
+      213: 8899473097363125615
+    second: giant_block_attack_4
+  - first:
+      213: 782196946598728010
+    second: giant_block_attack_5
+  - first:
+      213: -6495863974114696528
+    second: giant_block_attack_6
+  - first:
+      213: -4289943989744651775
+    second: giant_block_attack_7
+  - first:
+      213: 3088960701954435353
+    second: giant_block_attack_8
+  - first:
+      213: -6767446880684865212
+    second: giant_block_attack_9
+  - first:
+      213: 3462380842547786074
+    second: giant_block_attack_10
+  - first:
+      213: -87554661047316254
+    second: giant_block_attack_111
+  - first:
+      213: -715944169213243122
+    second: giant_block_attack_12
+  - first:
+      213: 7911067262066091710
+    second: giant_block_39
+  - first:
+      213: 5778271907745886014
+    second: giant_block_40
+  - first:
+      213: -6931278496627307068
+    second: giant_block_41
+  - first:
+      213: -4864009910537002870
+    second: giant_block_42
+  - first:
+      213: -5957314985663928730
+    second: giant_block_power_attack_1
+  - first:
+      213: 4729987072453384047
+    second: giant_block_power_attack_2
+  - first:
+      213: -3512395221623560570
+    second: giant_block_power_attack_3
+  - first:
+      213: -3259149059688828811
+    second: giant_block_46
+  - first:
+      213: -4470324392694951097
+    second: giant_block_power_attack_4
+  - first:
+      213: -7893192687991913872
+    second: giant_block_48
+  - first:
+      213: 5832786290912781356
+    second: giant_block_49
+  - first:
+      213: -4814086569013183843
+    second: giant_block_50
+  - first:
+      213: -1676838494152377183
+    second: giant_block_51
+  - first:
+      213: 1413145822631401662
+    second: giant_block_52
+  - first:
+      213: 4744766472744661525
+    second: giant_block_53
+  - first:
+      213: 2793251269829457399
+    second: giant_block_54
+  - first:
+      213: -6024724797393863005
+    second: giant_block_55
+  - first:
+      213: -958423206133194441
+    second: giant_block_56
+  - first:
+      213: -2687135159347865464
+    second: giant_block_57
+  - first:
+      213: 7783824982304286018
+    second: giant_block_58
+  - first:
+      213: 5442449900070883597
+    second: giant_block_59
+  - first:
+      213: -822349036837021253
+    second: giant_block_60
+  - first:
+      213: 6872344833590156439
+    second: giant_block_61
+  - first:
+      213: -3035803187916498807
+    second: giant_block_62
+  - first:
+      213: -6419311133778209986
+    second: giant_block_63
+  - first:
+      213: 3070203643266653917
+    second: giant_block_64
+  - first:
+      213: 901026781518749112
+    second: giant_block_65
+  - first:
+      213: 6955139148367811885
+    second: giant_block_18
+  - first:
+      213: -3859486043579251028
+    second: giant_block_13
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Lumin
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: giant_block_idle_1
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 859
+        width: 117
+        height: 137
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ffb2280c933a39f0800000000000000
+      internalID: -488020864371867657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giant_block_idle_2
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 859
+        width: 117
+        height: 137
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9df135ea8fb1d1e0800000000000000
+      internalID: -2174746541771588193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giant_block_idle_3
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 859
+        width: 117
+        height: 137
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a573d4deb35e1750800000000000000
+      internalID: 6277547009680569768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giant_block_idle_4
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 859
+        width: 117
+        height: 137
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 977472fda8affddc0800000000000000
+      internalID: -3611892901771524231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giant_block_idle_5
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 859
+        width: 117
+        height: 137
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35fbad88767ed3760800000000000000
+      internalID: 7439356591349612371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giant_block_idle_6
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 859
+        width: 117
+        height: 137
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89c62af21741b9680800000000000000
+      internalID: -8747375374874022760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giant_block_run_1
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 700
+        width: 117
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bc5c422b72f9e190800000000000000
+      internalID: -7932542657966089039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giant_block_run_2
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 700
+        width: 117
+        height: 131
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ebcae53b63d43140800000000000000
+      internalID: 4698612768673811431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giant_block_run_3
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 700
+        width: 117
+        height: 135
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 637d2a39922c9f5f0800000000000000
+      internalID: -722332781389883594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giant_block_run_4
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 700
+        width: 117
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc3e738ac9ff30f80800000000000000
+      internalID: -8141382653053508657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giant_block_run_5
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 700
+        width: 117
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1484cef674bd29d0800000000000000
+      internalID: -2797381370353777636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giant_block_run_6
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 700
+        width: 117
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e38d7860d59890e40800000000000000
+      internalID: 5623176642383304766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giant_block_12
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 531
+        width: 133
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2148e8027e631b990800000000000000
+      internalID: -7372050748717235182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giant_block_19
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 570
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daaf5d5d00282dc20800000000000000
+      internalID: 3229786822877248173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giant_block_attack_1
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 348
+        width: 147
+        height: 131
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 185fd29b9c5fa4580800000000000000
+      internalID: -8841984671644519039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giant_block_attack_2
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 348
+        width: 147
+        height: 137
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b682c269a0859a180800000000000000
+      internalID: -9103648369260353429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giant_block_attack_3
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 348
+        width: 148
+        height: 133
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e3a734644aab7e50800000000000000
+      internalID: 6808222472416502754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giant_block_attack_4
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 347
+        width: 154
+        height: 148
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f65797071a7418b70800000000000000
+      internalID: 8899473097363125615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giant_block_attack_5
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 348
+        width: 152
+        height: 135
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a41996a8afbeada00800000000000000
+      internalID: 782196946598728010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giant_block_attack_6
+      rect:
+        serializedVersion: 2
+        x: 884
+        y: 348
+        width: 151
+        height: 137
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b2e2a1d12e0ad5a0800000000000000
+      internalID: -6495863974114696528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giant_block_attack_7
+      rect:
+        serializedVersion: 2
+        x: 1067
+        y: 348
+        width: 145
+        height: 133
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 102b2f0abae0774c0800000000000000
+      internalID: -4289943989744651775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giant_block_attack_8
+      rect:
+        serializedVersion: 2
+        x: 1239
+        y: 348
+        width: 145
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 919a22574613eda20800000000000000
+      internalID: 3088960701954435353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giant_block_attack_9
+      rect:
+        serializedVersion: 2
+        x: 1410
+        y: 348
+        width: 147
+        height: 133
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4490470eae23512a0800000000000000
+      internalID: -6767446880684865212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giant_block_attack_10
+      rect:
+        serializedVersion: 2
+        x: 1585
+        y: 348
+        width: 146
+        height: 133
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a51bd252809dc0030800000000000000
+      internalID: 3462380842547786074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giant_block_attack_111
+      rect:
+        serializedVersion: 2
+        x: 1762
+        y: 348
+        width: 119
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e058d9ef71f8cef0800000000000000
+      internalID: -87554661047316254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giant_block_attack_12
+      rect:
+        serializedVersion: 2
+        x: 1908
+        y: 348
+        width: 119
+        height: 132
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e01580342947016f0800000000000000
+      internalID: -715944169213243122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giant_block_39
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 196
+        width: 99
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb6ebad92c1c9cd60800000000000000
+      internalID: 7911067262066091710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giant_block_40
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 196
+        width: 80
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3fefcc7fab803050800000000000000
+      internalID: 5778271907745886014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giant_block_power_attack_1
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 12
+        width: 117
+        height: 137
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 666e360759d535da0800000000000000
+      internalID: -5957314985663928730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giant_block_power_attack_2
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 12
+        width: 117
+        height: 137
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6716cd8e2a44a140800000000000000
+      internalID: 4729987072453384047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giant_block_power_attack_3
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 12
+        width: 117
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6862958c727714fc0800000000000000
+      internalID: -3512395221623560570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giant_block_46
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 114
+        width: 45
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 570f23ba23d25c2d0800000000000000
+      internalID: -3259149059688828811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giant_block_power_attack_4
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 12
+        width: 130
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74357ae46a736f1c0800000000000000
+      internalID: -4470324392694951097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giant_block_48
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 12
+        width: 138
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0720888f11fb57290800000000000000
+      internalID: -7893192687991913872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giant_block_49
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 12
+        width: 147
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c24ef986a3832f050800000000000000
+      internalID: 5832786290912781356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giant_block_50
+      rect:
+        serializedVersion: 2
+        x: 951
+        y: 32
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9a7df785cde03db0800000000000000
+      internalID: -4814086569013183843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giant_block_51
+      rect:
+        serializedVersion: 2
+        x: 957
+        y: 12
+        width: 148
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1acb85a164caab8e0800000000000000
+      internalID: -1676838494152377183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giant_block_56
+      rect:
+        serializedVersion: 2
+        x: 1196
+        y: 35
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 731a0f50c2ff2b2f0800000000000000
+      internalID: -958423206133194441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

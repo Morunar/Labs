@@ -1,0 +1,2339 @@
+fileFormatVersion: 2
+guid: 6d0f6d2703eb2574a88ccf531552dd95
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5158404753353345565
+    second: frog_idle_1
+  - first:
+      213: -6160767750220376532
+    second: frog_idle_2
+  - first:
+      213: -8667238115605912382
+    second: frog_idle_3
+  - first:
+      213: -4682725004825781077
+    second: frog_idle_4
+  - first:
+      213: -7774217850690031510
+    second: frog_idle_5
+  - first:
+      213: 7793927537250021948
+    second: frog_idle_6
+  - first:
+      213: -5069271714770940071
+    second: frog_idle_7
+  - first:
+      213: -5078756250922304867
+    second: frog_idle_8
+  - first:
+      213: 6382731758634067171
+    second: frog_idle_9
+  - first:
+      213: 1379382854405944773
+    second: frog_idle_10
+  - first:
+      213: -3583382622851697871
+    second: frog_idle_11
+  - first:
+      213: 7125342408229539141
+    second: frog_run_1
+  - first:
+      213: -4965290128074916031
+    second: frog_run_2
+  - first:
+      213: 6999146183814660703
+    second: frog_run_3
+  - first:
+      213: -7865973014318381863
+    second: frog_run_4
+  - first:
+      213: 2583930492096236710
+    second: frog_run_5
+  - first:
+      213: 7681083373000791725
+    second: frog_run_6
+  - first:
+      213: 2419871208917555452
+    second: frog_run_7
+  - first:
+      213: 697907907653043049
+    second: frog_run_8
+  - first:
+      213: 3302796147774513274
+    second: frog_run_9
+  - first:
+      213: 6105786065531640194
+    second: frog_run_10
+  - first:
+      213: 2646618073891114681
+    second: frog_run_11
+  - first:
+      213: 4065282696428122035
+    second: frog_run_12
+  - first:
+      213: -4252195969075322415
+    second: frog_shoot_1
+  - first:
+      213: -9142488438333148364
+    second: frog_shoot_2
+  - first:
+      213: -9090269670886589971
+    second: frog_shoot_3
+  - first:
+      213: 3868359521367857837
+    second: frog_shoot_4
+  - first:
+      213: -3807413871125351880
+    second: frog_shoot_5
+  - first:
+      213: 6465150449163716666
+    second: frog_shoot_6
+  - first:
+      213: -1964883730747524612
+    second: frog_shoot_7
+  - first:
+      213: -5599488046551704461
+    second: frog_shoot_8
+  - first:
+      213: -979786464555320668
+    second: frog_shoot_9
+  - first:
+      213: 4754286583339849510
+    second: frog_32
+  - first:
+      213: -5969743708989857672
+    second: attack
+  - first:
+      213: 1447994819811827574
+    second: frog_34
+  - first:
+      213: -8493061326620493954
+    second: frog_35
+  - first:
+      213: 8438886816727787881
+    second: frog_36
+  - first:
+      213: -6449746135747327587
+    second: frog_37
+  - first:
+      213: -6840631794003511975
+    second: frog_38
+  - first:
+      213: 5490618850570526839
+    second: frog_39
+  - first:
+      213: -413583883774208229
+    second: frog_40
+  - first:
+      213: -4433090883232512447
+    second: frog_41
+  - first:
+      213: 3146979256045981458
+    second: frog_42
+  - first:
+      213: -1533517455796661999
+    second: frog_43
+  - first:
+      213: 1845792026560776575
+    second: frog_44
+  - first:
+      213: -4862301440795869824
+    second: frog_45
+  - first:
+      213: 5149597773272038716
+    second: frog_46
+  - first:
+      213: -6528891533868596338
+    second: frog_47
+  - first:
+      213: -69448289188864639
+    second: frog_48
+  - first:
+      213: 292895730009279218
+    second: frog_49
+  - first:
+      213: -6100677863850797423
+    second: frog_50
+  - first:
+      213: -8718540360851160974
+    second: frog_51
+  - first:
+      213: -1320851941980464501
+    second: frog_52
+  - first:
+      213: 802093161297563946
+    second: frog_53
+  - first:
+      213: -6260004096133190876
+    second: frog_54
+  - first:
+      213: 2958263086506492016
+    second: frog_55
+  - first:
+      213: 630522293234952884
+    second: frog_56
+  - first:
+      213: 5057538793906015583
+    second: frog_57
+  - first:
+      213: 349349418457069084
+    second: frog_58
+  - first:
+      213: 7698458060882492514
+    second: frog_59
+  - first:
+      213: -8112231830572294554
+    second: frog_60
+  - first:
+      213: -4599988718790780657
+    second: frog_61
+  - first:
+      213: 4673152278970190535
+    second: frog_62
+  - first:
+      213: 1901419910534258395
+    second: frog_63
+  - first:
+      213: -5310427467169304327
+    second: frog_64
+  - first:
+      213: -5459688214906459979
+    second: frog_65
+  - first:
+      213: -2031674944896736514
+    second: frog_66
+  - first:
+      213: 4119310468176240602
+    second: frog_67
+  - first:
+      213: -4202014108272518289
+    second: frog_68
+  - first:
+      213: 2173483181902200454
+    second: frog_69
+  - first:
+      213: 598704685645289243
+    second: frog_70
+  - first:
+      213: -7246274964468859298
+    second: frog_71
+  - first:
+      213: 8451806828691181513
+    second: frog_72
+  - first:
+      213: 1457903675120870309
+    second: frog_73
+  - first:
+      213: -1793035886820366329
+    second: frog_74
+  - first:
+      213: 3768046227360868826
+    second: frog_75
+  - first:
+      213: -2247485529963170006
+    second: frog_76
+  - first:
+      213: 347042353930839812
+    second: frog_77
+  - first:
+      213: -4148846771192226561
+    second: frog_78
+  - first:
+      213: 1386227287834229968
+    second: frog_79
+  - first:
+      213: -2597536111056805632
+    second: frog_idle_1
+  - first:
+      213: 6144091431180207097
+    second: frog_idle_2
+  - first:
+      213: 4907733162255962726
+    second: frog_idle_3
+  - first:
+      213: -145845655131683528
+    second: frog_idle_4
+  - first:
+      213: -5634744399976852424
+    second: frog_idle_5
+  - first:
+      213: -5499064701442501329
+    second: frog_idle_6
+  - first:
+      213: 1285912766942506832
+    second: frog_idle_7
+  - first:
+      213: -2823311554096846324
+    second: frog_idle_8
+  - first:
+      213: 7783563219964856652
+    second: frog_idle_9
+  - first:
+      213: -4239831180640813725
+    second: frog_idle_10
+  - first:
+      213: -1071798058142500711
+    second: frog_idle_11
+  - first:
+      213: 7919731803815318381
+    second: frog_run_1
+  - first:
+      213: 67932065809904583
+    second: frog_run_2
+  - first:
+      213: -3606709533391187329
+    second: frog_run_3
+  - first:
+      213: -4301215466386439404
+    second: frog_run_4
+  - first:
+      213: 8514579352293608387
+    second: frog_run_5
+  - first:
+      213: -7890799942197679106
+    second: frog_run_6
+  - first:
+      213: -9154159271882254577
+    second: frog_run_7
+  - first:
+      213: 3396718183168541927
+    second: frog_run_8
+  - first:
+      213: 1148659257689230798
+    second: frog_run_9
+  - first:
+      213: 8809836779800499333
+    second: frog_run_10
+  - first:
+      213: 515408425564851884
+    second: frog_run_11
+  - first:
+      213: 3833712510443058816
+    second: frog_run_12
+  - first:
+      213: 7324912614564197318
+    second: frog_shoot_1
+  - first:
+      213: -2223539988066940192
+    second: frog_shoot_2
+  - first:
+      213: -1610839160274270832
+    second: frog_shoot_3
+  - first:
+      213: -3164768656692418913
+    second: frog_shoot_4
+  - first:
+      213: 7894562496958202875
+    second: frog_shoot_5
+  - first:
+      213: 7209747989925653832
+    second: frog_shoot_6
+  - first:
+      213: -3773160817319712194
+    second: frog_shoot_7
+  - first:
+      213: -5211735149353359440
+    second: frog_shoot_8
+  - first:
+      213: 9001426986501351427
+    second: frog_shoot_9
+  - first:
+      213: -6029404325739713733
+    second: frog_32
+  - first:
+      213: 8174922056085456634
+    second: attack
+  - first:
+      213: 6379681175414822210
+    second: frog_34
+  - first:
+      213: 5608601651757007966
+    second: frog_35
+  - first:
+      213: 4726140944235788377
+    second: frog_36
+  - first:
+      213: 4663592731179984306
+    second: frog_37
+  - first:
+      213: 8553361385746540722
+    second: frog_38
+  - first:
+      213: 1799779274647148587
+    second: frog_39
+  - first:
+      213: -1918395823867037131
+    second: frog_40
+  - first:
+      213: 470332497019707491
+    second: frog_41
+  - first:
+      213: -7849905695265277308
+    second: frog_42
+  - first:
+      213: -3228082988567680334
+    second: frog_43
+  - first:
+      213: 8942617772416546396
+    second: frog_44
+  - first:
+      213: -5789889292643134766
+    second: frog_45
+  - first:
+      213: -1337864139182904741
+    second: frog_46
+  - first:
+      213: 8914448846471260781
+    second: frog_47
+  - first:
+      213: -2301583005125763825
+    second: frog_48
+  - first:
+      213: 9148995372698145070
+    second: frog_49
+  - first:
+      213: -2063388107641090543
+    second: frog_50
+  - first:
+      213: 2541215232603937631
+    second: frog_51
+  - first:
+      213: 4374490109157872922
+    second: frog_52
+  - first:
+      213: -6583592176848108747
+    second: frog_53
+  - first:
+      213: -2376607764852005410
+    second: frog_54
+  - first:
+      213: -1568299101090544953
+    second: frog_55
+  - first:
+      213: -7087294549960222072
+    second: frog_56
+  - first:
+      213: 1142053197324555575
+    second: frog_57
+  - first:
+      213: -2032185388749519587
+    second: frog_58
+  - first:
+      213: -5890650017164002387
+    second: frog_59
+  - first:
+      213: 951963244131562086
+    second: frog_60
+  - first:
+      213: -8526449517073780721
+    second: frog_61
+  - first:
+      213: 1313906049197280044
+    second: frog_62
+  - first:
+      213: 722352273371282217
+    second: frog_63
+  - first:
+      213: -830241052416589986
+    second: frog_64
+  - first:
+      213: 5302720967093415226
+    second: frog_65
+  - first:
+      213: 2279935556410829536
+    second: frog_66
+  - first:
+      213: -8388897505021967096
+    second: frog_67
+  - first:
+      213: -2867135813533655875
+    second: frog_68
+  - first:
+      213: 8037079703472039320
+    second: frog_69
+  - first:
+      213: -7980887920553755649
+    second: frog_70
+  - first:
+      213: -6551554064114173972
+    second: frog_71
+  - first:
+      213: -7063889878788672189
+    second: frog_72
+  - first:
+      213: -259410547666001112
+    second: frog_73
+  - first:
+      213: 1678508830589582476
+    second: frog_74
+  - first:
+      213: 9075976170146022833
+    second: frog_75
+  - first:
+      213: -7061570055378284560
+    second: frog_76
+  - first:
+      213: -5710761969533090073
+    second: frog_77
+  - first:
+      213: -5052575759494865833
+    second: frog_78
+  - first:
+      213: 2094778138303711095
+    second: frog_79
+  - first:
+      213: -2597536111056805632
+    second: frog_0
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Lumin
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: frog_idle_1
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 460
+        width: 73
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 001a5395ba2b3fbd0800000000000000
+      internalID: -2597536111056805632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frog_idle_2
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 460
+        width: 80
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f384079a92344550800000000000000
+      internalID: 6144091431180207097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frog_idle_3
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 460
+        width: 80
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 662dbac0f45cb1440800000000000000
+      internalID: 4907733162255962726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frog_idle_4
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 460
+        width: 72
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83587dd362ad9fdf0800000000000000
+      internalID: -145845655131683528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frog_idle_5
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 460
+        width: 70
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 834124782dd5dc1b0800000000000000
+      internalID: -5634744399976852424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frog_idle_6
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 460
+        width: 70
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2551a11ac56fa3b0800000000000000
+      internalID: -5499064701442501329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frog_idle_7
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 460
+        width: 70
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05f6fb539da78d110800000000000000
+      internalID: 1285912766942506832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frog_idle_8
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 460
+        width: 70
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0a2dcf991591d8d0800000000000000
+      internalID: -2823311554096846324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frog_idle_9
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 460
+        width: 70
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c490dcc6285c40c60800000000000000
+      internalID: 7783563219964856652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frog_idle_10
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 460
+        width: 70
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36d774a31081925c0800000000000000
+      internalID: -4239831180640813725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frog_idle_11
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 460
+        width: 70
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 998767148553021f0800000000000000
+      internalID: -1071798058142500711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frog_run_1
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 377
+        width: 77
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6396c27d1a88ed60800000000000000
+      internalID: 7919731803815318381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frog_run_2
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 377
+        width: 79
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c3357b9ad751f000800000000000000
+      internalID: 67932065809904583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frog_run_3
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 377
+        width: 78
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f72143ed9c462fdc0800000000000000
+      internalID: -3606709533391187329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frog_run_4
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 377
+        width: 72
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 413ce9772530f44c0800000000000000
+      internalID: -4301215466386439404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frog_run_5
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 377
+        width: 72
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cb06590fccd92670800000000000000
+      internalID: 8514579352293608387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frog_run_6
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 377
+        width: 70
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efb62a3824f3e7290800000000000000
+      internalID: -7890799942197679106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frog_run_7
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 377
+        width: 77
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f071c1e94a4e5f080800000000000000
+      internalID: -9154159271882254577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frog_run_8
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 377
+        width: 79
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e40fd5e031932f20800000000000000
+      internalID: 3396718183168541927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frog_run_9
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 377
+        width: 78
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecdc78e428bd0ff00800000000000000
+      internalID: 1148659257689230798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frog_run_10
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 377
+        width: 72
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5841e2defd3d24a70800000000000000
+      internalID: 8809836779800499333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frog_run_11
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 377
+        width: 72
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cae49087b39172700800000000000000
+      internalID: 515408425564851884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frog_run_12
+      rect:
+        serializedVersion: 2
+        x: 956
+        y: 377
+        width: 70
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 086fde36735143530800000000000000
+      internalID: 3833712510443058816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frog_shoot_1
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 287
+        width: 73
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c370e1c63157a560800000000000000
+      internalID: 7324912614564197318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frog_shoot_2
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 287
+        width: 69
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0eac46369266421e0800000000000000
+      internalID: -2223539988066940192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frog_shoot_3
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 287
+        width: 68
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 095409d715625a9e0800000000000000
+      internalID: -1610839160274270832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frog_shoot_4
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 287
+        width: 76
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f96ee85acab7414d0800000000000000
+      internalID: -3164768656692418913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frog_shoot_5
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 287
+        width: 116
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf3805883ce1f8d60800000000000000
+      internalID: 7894562496958202875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frog_shoot_6
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 287
+        width: 115
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84dea93199b2e0460800000000000000
+      internalID: 7209747989925653832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frog_shoot_7
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 287
+        width: 102
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3a6c3b4a3a03abc0800000000000000
+      internalID: -3773160817319712194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frog_shoot_8
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 287
+        width: 78
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b7206f9e723ca7b0800000000000000
+      internalID: -5211735149353359440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frog_shoot_9
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 287
+        width: 75
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3082702172e7bec70800000000000000
+      internalID: 9001426986501351427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frog_32
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 190
+        width: 77
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3ba41df5b0435ca0800000000000000
+      internalID: -6029404325739713733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attack
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 184
+        width: 54
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af6ca732c48237170800000000000000
+      internalID: 8174922056085456634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frog_34
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 230
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 245d8d06a3e298850800000000000000
+      internalID: 6379681175414822210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frog_35
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 184
+        width: 28
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5445a39c71c5dd40800000000000000
+      internalID: 5608601651757007966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frog_36
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 230
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9587a9b0620a69140800000000000000
+      internalID: 4726140944235788377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frog_37
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 184
+        width: 28
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b5a31751e868b040800000000000000
+      internalID: 4663592731179984306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frog_38
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 231
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b827f8dcd4a3b670800000000000000
+      internalID: 8553361385746540722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frog_39
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 228
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b281473f6b91af810800000000000000
+      internalID: 1799779274647148587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frog_40
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 228
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53affcb892d7065e0800000000000000
+      internalID: -1918395823867037131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frog_41
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 231
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 360ae230ae4f68600800000000000000
+      internalID: 470332497019707491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frog_42
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 231
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48ab5695c588f0390800000000000000
+      internalID: -7849905695265277308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frog_43
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 231
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ba21f000ab8333d0800000000000000
+      internalID: -3228082988567680334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frog_44
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 228
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c56bbf6eb7f8a1c70800000000000000
+      internalID: 8942617772416546396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frog_45
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 231
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d21b2f4d5e26afa0800000000000000
+      internalID: -5789889292643134766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frog_46
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 231
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5ae44a57a3fe6de0800000000000000
+      internalID: -1337864139182904741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frog_47
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 228
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6a6f4ebefb76bb70800000000000000
+      internalID: 8914448846471260781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frog_48
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 231
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0d176e73722f00e0800000000000000
+      internalID: -2301583005125763825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frog_49
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 231
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e219d5961d2c7fe70800000000000000
+      internalID: 9148995372698145070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frog_50
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 231
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11e894ac27f5d53e0800000000000000
+      internalID: -2063388107641090543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frog_51
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 215
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5b5b254ac5344320800000000000000
+      internalID: 2541215232603937631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frog_52
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 215
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1590d5c39f45bc30800000000000000
+      internalID: 4374490109157872922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frog_53
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 215
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5338de8ebc162a4a0800000000000000
+      internalID: -6583592176848108747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frog_54
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 215
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed5af8564d7940fd0800000000000000
+      internalID: -2376607764852005410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frog_55
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 215
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c20fe9d6484c3ae0800000000000000
+      internalID: -1568299101090544953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frog_56
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 212
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88a1f0b282fd4ad90800000000000000
+      internalID: -7087294549960222072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frog_57
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 212
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7351125055369df00800000000000000
+      internalID: 1142053197324555575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frog_58
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 215
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1588d9e72a3cc3e0800000000000000
+      internalID: -2032185388749519587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frog_59
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 215
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dab7ac6f405304ea0800000000000000
+      internalID: -5890650017164002387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frog_60
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 215
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 662b0bdd68d063d00800000000000000
+      internalID: 951963244131562086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frog_61
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 215
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f00348bd657fba980800000000000000
+      internalID: -8526449517073780721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frog_62
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 215
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2b04a2279eeb3210800000000000000
+      internalID: 1313906049197280044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frog_63
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 199
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92bbdf0c09f460a00800000000000000
+      internalID: 722352273371282217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frog_64
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 199
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5f33c069246a74f0800000000000000
+      internalID: -830241052416589986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frog_65
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 196
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3d6e92ef9c079940800000000000000
+      internalID: 5302720967093415226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frog_66
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 199
+        width: 4
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ea66a61f45f3af10800000000000000
+      internalID: 2279935556410829536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frog_67
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 199
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 805410c5a26a49b80800000000000000
+      internalID: -8388897505021967096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frog_68
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 199
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbc96871b23e538d0800000000000000
+      internalID: -2867135813533655875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frog_69
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 199
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 895e3f47861798f60800000000000000
+      internalID: 8037079703472039320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frog_70
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 199
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffbff2788b03e3190800000000000000
+      internalID: -7980887920553755649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frog_71
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 97
+        width: 78
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce735b15a443415a0800000000000000
+      internalID: -6551554064114173972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frog_72
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 15
+        width: 77
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 345f252d49508fd90800000000000000
+      internalID: -7063889878788672189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frog_73
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 6
+        width: 76
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 823e0673b73666cf0800000000000000
+      internalID: -259410547666001112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frog_74
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 29
+        width: 93
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8cf5a763e24b4710800000000000000
+      internalID: 1678508830589582476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frog_75
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 15
+        width: 78
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b5c67b7d3854fd70800000000000000
+      internalID: 9075976170146022833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frog_76
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 28
+        width: 102
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ff44acc273400e90800000000000000
+      internalID: -7061570055378284560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frog_77
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 28
+        width: 88
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e68b21ee3c4fb0b0800000000000000
+      internalID: -5710761969533090073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frog_78
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 12
+        width: 17
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75c1f8ecd15a1e9b0800000000000000
+      internalID: -5052575759494865833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frog_79
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 12
+        width: 17
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 777c8d04e95221d10800000000000000
+      internalID: 2094778138303711095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
