@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 0}
+  m_Name: Sword
+  m_EditorClassIdentifier: Assembly-CSharp:Items:EquipmentBase
+  _itemId: 7
+  _name: Sword
+  _description: Sword
+  _cost: 150
+  _stackCount: 1
+  _inventoryIcon: {fileID: 21300000, guid: 5fd50594014b70e48bd6993443d46b32, type: 3}
+  _requiredLvl: 0
+  _primaryStats:
+  - StatTyppe: 8
+    Amount: 11
+  _requiredStats: []
+  _equipment: 0
+  _rarityLvl: 0
+  _additionalStats: []
